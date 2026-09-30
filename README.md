@@ -9,7 +9,7 @@ A portfolio-ready Django REST API for tracking job applications, interview stage
 - Filter by status and location
 - Search by company, role, location, and notes
 - Sort by application date, status, company, or last update
-- Automated tests and GitHub Actions CI
+- Automated API tests
 
 ## Tech stack
 
@@ -76,3 +76,4 @@ This is an original portfolio implementation built with the official Django and 
 - Add interview events and follow-up reminders
 - Add PostgreSQL configuration through environment variables
 - Add API documentation with OpenAPI
+- Add GitHub Actions CI
